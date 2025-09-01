@@ -4,7 +4,7 @@ A tiny, beginner‑friendly tool + guide to fetch, validate, and decode your **D
 
 > **What this is not :**
 >
-> * A clear guide to enable Developer Mode and copy your Discord User/Message/Channel ID.
+> * A clear guide  enable Developer Mode and copy your Discord User/Message/Channel ID.
 > * Small scripts (Python & Node.js) to **validate** an ID and **decode the creation timestamp** from the snowflake.
 >
 > **What this :**
