@@ -22,7 +22,7 @@ A tiny, beginner‑friendly tool + guide to fetch, validate, and decode your **D
 
 ---
 
-## 📸 Quick Preview
+## 📸 Quick 
 
 ```text
 $ python discord_id_helper.py 122345678901234567
