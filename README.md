@@ -186,7 +186,7 @@ MIT
 ---
 
 ## 🙋 FAQ
-**Q:** Can I get my ID without Developer Mode?
+**Q:**  I get my ID without Developer Mode?
 
 **A:** Not reliably inside the client. Turning on **Developer Mode** is the standard way to expose **Copy ID**.
 
