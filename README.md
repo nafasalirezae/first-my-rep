@@ -9,7 +9,7 @@ A tiny, beginner‑friendly tool + guide to fetch, validate, and decode your **D
 >
 > **Whate   :**
 >
-> * A tokened/bot-required scraper. No login, no .
+> * A tokened/bot-required scraper.  login, no .
 
 ---
 
