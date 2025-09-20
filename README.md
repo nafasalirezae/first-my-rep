@@ -32,7 +32,7 @@ ID creation time (UTC): 2024-11-12 08:14:22
 
 ---
 
-## 🚀 Getting Started
+## 🚀  Started
 
 ### 1)   your ID from Discord (no code needed)
 
