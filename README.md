@@ -15,7 +15,7 @@ A , beginner‑friendly tool + guide to fetch, validate, and decode your **Disco
 
 ## ✨ Features
 
-* 🧭 Step‑‑step instructions (with Developer Mode) to copy IDs 
+* 🧭 Step‑‑step instructions (with Developer Mode) to  IDs 
 * ✅ Validate that an ID looks like a Discord snowflake
 * 🕒 Decode the embedded timestamp from the ID
 * 📦 Zero dependencies (Python standard lib / Node core)
