@@ -7,7 +7,7 @@ A , beginner‑friendly tool + guide to fetch, validate, and decode your **Disco
 > * A clear guide to enable Developer Mode and copy your Discord User/Message/Channel .
 > * Small scripts (Python & Node.js) to **validate** an ID and **decode the creation timestamp** from the snowflake.
 >
-> **Whate   :**
+> **Whates   :**
 >
 > * A tokened/bot-required scraper.  login,
 
