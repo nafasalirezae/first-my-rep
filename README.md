@@ -34,7 +34,7 @@ ID creation time (UTC): 2024-11-12 08:14:22
 
 ## 🚀 setting Started
 
-### 1)    ID from Discord (no code needed)
+### 1)     from Discord (no code needed)
 
 1. Open **Discord**
 2. Go to **User Settings → Advanced**
