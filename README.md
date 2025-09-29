@@ -18,7 +18,7 @@ A , beginner‑friendly tool + guide to fetch, validate, and decode your **Disco
 * 🧭 Step‑‑step instructions (with Developer Mode) to  IDs 
 * ✅ Validate that an ID looks  a Discord snowflake
 * 🕒 Decode the embedded timestamp from the ID
-* 📦 Zero dependencies (Python standard lib / Node core)
+* 📦to  Zero dependencies (Python standard lib / Node core)
 
 ---
 
