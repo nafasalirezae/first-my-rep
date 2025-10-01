@@ -1,6 +1,6 @@
 # Discord id Helper
 
-A , beginner‑friendly tool + guide to fetch, validate, and decode your **Discord Snowflake ID**. Perfect to drop into your GitHub README.
+A , beginner‑friendly tool + guide to fetch, validate, and decode your **Discord Snowflake ID**. Perfect to drop  your GitHub README.
 
 > **What  :**
 >
