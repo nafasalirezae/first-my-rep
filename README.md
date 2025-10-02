@@ -9,7 +9,7 @@ A , beginner‑friendly tool + guide to fetch, validate, and decode your **Disco
 >
 > **Whates   :**
 >
-> * A tokened/bot-required scraper.  ,
+> * A tokened/-required scraper.  ,
 
 ---
 
