@@ -24,7 +24,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 
 ## 📸 Quick 
 
-```text
+```
 $ python discord_id_helper.py 122345678901234567
 Valid snowflake ✅
 ID creation time (UTC): 2024-11-12 08:14:22
