@@ -9,7 +9,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 >
 > **Whates   :**
 >
-> * A tokened/-required scraper.  ,
+> *  tokened/-required scraper.  ,
 
 ---
 
