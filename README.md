@@ -2,7 +2,7 @@
 
 A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord Snowflake ID**. Perfect to drop  your GitHub README.
 
-> **What  :**
+> **  :**
 >
 > *   guides to enable Developer Mode and copy your Discord User/Message/Channel .
 > *  scripts (Python & Node.js)**validate**  ID and **decode the creation timestamp** from the snowflake.
