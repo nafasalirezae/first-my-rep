@@ -151,7 +151,7 @@ We recover the timestamp by shifting right 22 bits and adding the **Discord epoc
 
 ---
 
-## 🧩 Embed in Your README
+## 🧩 Embed in Your
 
 Copy this badge + command block to your repo:
 
