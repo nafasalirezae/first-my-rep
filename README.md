@@ -34,7 +34,7 @@ ID creation  (UTC): 2024-11-12 08:14:22
 
 ## 🚀 setting Started
 
-### 1)      Discord (no code needed)
+### 1)       (no code needed)
 
 1. Open **Discord**
 2. Go to ** Settings → Advanced**
