@@ -22,7 +22,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 
 ---
 
-## 📸 Quick 
+## 📸  
 
 ```
 $ python discord_id_helper.py 122345678901234567
