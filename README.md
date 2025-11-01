@@ -122,7 +122,7 @@ console.log("Valid snowflake ✅");
 console.log("ID creation time (UTC):", ts.toISOString().replace('T', ' ').slice(0, 19));
 ```
 
-Run it:
+ it:
 
 ```bash
 node discord-id-helper.mjs 122345678901234567
