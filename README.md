@@ -17,7 +17,6 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 
 * 🧭 ‑by‑step instructions (with Developer Mode)    
 * ✅ Validate   IDe    snowflake
-* 🕒 Decode the embedded timestamp from the ID
 * 📦to  Zero dependencies (Python standard lib / Node core)
 
 ---
