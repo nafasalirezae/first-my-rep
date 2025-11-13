@@ -42,7 +42,7 @@ ID creation  (UTC): 2024-11-12 08:14:22
 
 You’ll get a long integer like `122345678901234567`.
 
-### 2) Validate & decode with a tiny 
+### 2) Validate &  with a tiny 
 
 #### Python (discord\_id\_helper.py)
 
