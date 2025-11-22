@@ -16,7 +16,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 ## ✨ Features
 
 * 🧭 ‑by‑step instructions (with Developer Mode)    
-* ✅ Validate       
+* ✅        
 * 📦to   dependencies (Python standard lib / Node core)
 
 ---
