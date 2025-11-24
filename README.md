@@ -65,7 +65,7 @@ def decode_timestamp(snowflake: int) -> datetime:
 
 
 def ():
-    if len(sys.argv) != 2:
+     len(sys.argv) != 2:
         print("Usage: python discord_id_helper.py <discord_id>")
         sys.exit(1)
 
