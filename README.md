@@ -13,7 +13,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 
 ---
 
-## ✨ Features from
+## ✨ Features
 
 * 🧭 ‑by‑ instructions (with Developer Mode)    
 * ✅        
