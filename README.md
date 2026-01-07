@@ -5,7 +5,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 > **  :**
 >
 > *      Developer Mode  copy your  User/Message/Channel .
-> *  scripts (Python & .js)**validate**   and **decode the creation timestamp**   snowflake.
+> *  scripts (Python & .js)**validate**   and ** the creation timestamp**   snowflake.
 >
 > **   :**
 >
