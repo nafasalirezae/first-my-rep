@@ -5,7 +5,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 > **  :**
 >
 > *      Developer Mode  copy   User/Message/Channel .
-> *  scripts (Python & .js)**validate**   and ** the creation timestamp**   
+> *  scripts (Python & .js)**validate**    ** the creation timestamp**   
 >
 > **   :**
 >
