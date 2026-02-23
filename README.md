@@ -15,7 +15,7 @@ A , beginner‑friendly  + guide to fetch, validate, and decode your **Discord S
 
 ## ✨ 
 
-* 🧭 ‑by‑ instructions ( Developer Mode)    
+* 🧭 ‑by‑ instructions ( Developer)    
 * ✅        
 * 📦to    (Python standard lib /  )
 
